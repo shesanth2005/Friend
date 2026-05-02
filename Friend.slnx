@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="Friend.API/Friend.API.csproj" Id="3f01198f-2ccb-4153-8623-efaffe9fffb1" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="Friend.Application/Friend.Application.csproj" />
+    <Project Path="Friend.Domain/Friend.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Friend.Infrastructure/Friend.Infrastructure.csproj" Id="1bde8fe7-0ecf-4d28-8292-a06e48bed585" />
+  </Folder>
+  <Folder Name="/UI/" />
+</Solution>

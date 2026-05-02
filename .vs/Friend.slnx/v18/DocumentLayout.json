@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\mappings\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\mappings\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\friend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\friend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|solutionrelative:friend.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.infrastructure\\friend.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\friend.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\friend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\friend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.infrastructure\\friend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\friend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|d:\\myfiles\\festivaz-resources\\12-2025\\friend-clean\\friend\\friend.domain\\friend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|solutionrelative:friend.domain\\friend.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUF GAMING\\Desktop\\Clean\\Friend-Clean\\Friend\\Friend.API\\Models\\RegisterRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TUF GAMING\\Desktop\\Clean\\Friend-Clean\\Friend\\Friend.API\\Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:10:00.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:45:50.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:24:24.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountProfile.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Mappings\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Mappings\\AccountProfile.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Mappings\\AccountProfile.cs",
+              "RelativeToolTip": "Friend.Application\\Mappings\\AccountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:07:21.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:36:42.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:21:40.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:32:52.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Friend.Application.csproj",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Friend.Application.csproj",
+              "RelativeDocumentMoniker": "Friend.Application\\Friend.Application.csproj",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Friend.Application.csproj",
+              "RelativeToolTip": "Friend.Application\\Friend.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T14:28:54.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:21:16.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Program.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Program.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Program.cs",
+              "RelativeToolTip": "Friend.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:14:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:33:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:37:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Friend.API\\appsettings.json",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\appsettings.json",
+              "RelativeToolTip": "Friend.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T16:39:05.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Friend.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Friend.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:43:10.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Friend.Infrastructure",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "RelativeToolTip": "Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T17:28:30.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:24:53.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InfrastructureServicesRegistration.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:27:46.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:11:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAM0TAAAAAAAAAAAkwNcTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-12T16:17:54.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:06:18.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\ApplicationServicesRegistration.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "Friend.Application\\ApplicationServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:27:32.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Friend.API.csproj",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Friend.API.csproj",
+              "RelativeDocumentMoniker": "Friend.API\\Friend.API.csproj",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Friend.API.csproj",
+              "RelativeToolTip": "Friend.API\\Friend.API.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T14:28:48.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Friend.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Friend.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T16:01:22.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Friend.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:28:12.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:25:14.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TUF GAMING\\Desktop\\Clean\\Friend-Clean\\Friend\\Friend.API\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\TUF GAMING\\Desktop\\Clean\\Friend-Clean\\Friend\\Friend.API\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:20:27.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TUF GAMING\\Desktop\\Clean\\Friend-Clean\\Friend\\Friend.API\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\TUF GAMING\\Desktop\\Clean\\Friend-Clean\\Friend\\Friend.API\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:20:24.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseAPIController.cs",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\BaseAPIController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\BaseAPIController.cs",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.API\\Controllers\\BaseAPIController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\BaseAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:11:45.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Friend.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "RelativeToolTip": "Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T14:29:07.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Friend.Domain.csproj",
+              "DocumentMoniker": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Domain\\Friend.Domain.csproj",
+              "RelativeDocumentMoniker": "Friend.Domain\\Friend.Domain.csproj",
+              "ToolTip": "D:\\MyFiles\\Festivaz-Resources\\12-2025\\Friend-Clean\\Friend\\Friend.Domain\\Friend.Domain.csproj",
+              "RelativeToolTip": "Friend.Domain\\Friend.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T14:29:02.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

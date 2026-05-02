@@ -1,0 +1,33 @@
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.deps.json
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.AssemblyInfoInputs.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.AssemblyInfo.cs
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\refint\Friend.Domain.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\ref\Friend.Domain.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.deps.json
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.AssemblyInfoInputs.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.AssemblyInfo.cs
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\refint\Friend.Domain.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\ref\Friend.Domain.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.deps.json
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\bin\Debug\net9.0\Friend.Domain.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.AssemblyInfoInputs.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.AssemblyInfo.cs
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.csproj.CoreCompileInputs.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\refint\Friend.Domain.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\Friend.Domain.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Domain\obj\Debug\net9.0\ref\Friend.Domain.dll

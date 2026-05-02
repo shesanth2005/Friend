@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\queries\\getuserbyid\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\queries\\getuserbyid\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\events\\handlers\\createcustomeronuserregisteredhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\events\\handlers\\createcustomeronuserregisteredhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\events\\notification\\userregisteredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\events\\notification\\userregisteredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\models\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\appusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\mappings\\apimappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\mappings\\apimappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\loginuser\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\contracts\\persistence\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\contracts\\persistence\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\models\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\models\\responses\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\friend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\friend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\persistence\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\friend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\friend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F01198F-2CCB-4153-8623-EFAFFE9FFFB1}|Friend.API\\Friend.API.csproj|solutionrelative:friend.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\dtos\\userregistereddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\dtos\\userregistereddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|solutionrelative:friend.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9486EB6B-1BC7-B42E-41E4-624AC940841A}|Friend.Domain\\Friend.Domain.csproj|solutionrelative:friend.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\mappings\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\mappings\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\contracts\\persistence\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\friend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\friend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\security\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\security\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\queries\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\queries\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\queries\\getallusers\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.infrastructure\\persistence\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE8FE7-0ECF-4D28-8292-A06E48BED585}|Friend.Infrastructure\\Friend.Infrastructure.csproj|solutionrelative:friend.infrastructure\\persistence\\configurations\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\queries\\getuserbyid\\getuserbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\queries\\getuserbyid\\getuserbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\queries\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\contracts\\persistence\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\contracts\\persistence\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|e:\\clean\\21-10-2025\\10.00 am\\friend-clean\\friend\\friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311042BC-1E8B-D26F-E283-8D899929587A}|Friend.Application\\Friend.Application.csproj|solutionrelative:friend.application\\features\\accounts\\commands\\loginuser\\loginusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:39:57.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:01:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:29:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegisteredEvent.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Events\\Notification\\UserRegisteredEvent.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Events\\Notification\\UserRegisteredEvent.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Events\\Notification\\UserRegisteredEvent.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Events\\Notification\\UserRegisteredEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:21:48.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomerOnUserRegisteredHandler.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Events\\Handlers\\CreateCustomerOnUserRegisteredHandler.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Events\\Handlers\\CreateCustomerOnUserRegisteredHandler.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Events\\Handlers\\CreateCustomerOnUserRegisteredHandler.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Events\\Handlers\\CreateCustomerOnUserRegisteredHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:43:56.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:50:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:48:44.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:50:29.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiMappingProfile.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Mappings\\ApiMappingProfile.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Mappings\\ApiMappingProfile.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Mappings\\ApiMappingProfile.cs",
+              "RelativeToolTip": "Friend.API\\Mappings\\ApiMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:31:02.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:07:16.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Models\\Requests\\RegisterRequest.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Models\\Requests\\RegisterRequest.cs",
+              "RelativeToolTip": "Friend.API\\Models\\Requests\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:28:22.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Models\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Models\\Requests\\LoginRequest.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Models\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "Friend.API\\Models\\Requests\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:52:10.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:48:51.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUserController.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\AppUserController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\AppUserController.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\AppUserController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\AppUserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:58:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Friend.API\\appsettings.json",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\appsettings.json",
+              "RelativeToolTip": "Friend.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-19T11:11:17.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:13:24.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:05:24.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Dtos\\LoginDto.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:50:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseAPIController.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\BaseAPIController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\BaseAPIController.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\BaseAPIController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\BaseAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:13:59.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:48:41.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Contracts\\Persistence\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Contracts\\Persistence\\ICustomerRepository.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Contracts\\Persistence\\ICustomerRepository.cs",
+              "RelativeToolTip": "Friend.Application\\Contracts\\Persistence\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:12:31.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Models\\Responses\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Models\\Responses\\ApiResponse.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Models\\Responses\\ApiResponse.cs",
+              "RelativeToolTip": "Friend.API\\Models\\Responses\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:06:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ControllerExtensions.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Extensions\\ControllerExtensions.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Extensions\\ControllerExtensions.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Extensions\\ControllerExtensions.cs",
+              "RelativeToolTip": "Friend.API\\Extensions\\ControllerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:08:41.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Friend.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:14:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InfrastructureServicesRegistration.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:01:47.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Friend.API.csproj",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Friend.API.csproj",
+              "RelativeDocumentMoniker": "Friend.API\\Friend.API.csproj",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Friend.API.csproj",
+              "RelativeToolTip": "Friend.API\\Friend.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T16:19:26.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterUserCommandValidator.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:19:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Friend.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Friend.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T03:42:54.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:18:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:00:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Friend.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "RelativeToolTip": "Friend.Infrastructure\\Friend.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T14:15:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Friend.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:19:52.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRegisteredDto.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\UserRegisteredDto.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Dtos\\UserRegisteredDto.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\UserRegisteredDto.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Dtos\\UserRegisteredDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:21:14.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Program.cs",
+              "RelativeDocumentMoniker": "Friend.API\\Program.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.API\\Program.cs",
+              "RelativeToolTip": "Friend.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:22:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Friend.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Friend.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:51:32.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Friend.Domain\\Entities\\Customer.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Friend.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:15:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccountProfile.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Mappings\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Mappings\\AccountProfile.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Mappings\\AccountProfile.cs",
+              "RelativeToolTip": "Friend.Application\\Mappings\\AccountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:31:28.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\ApplicationServicesRegistration.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "Friend.Application\\ApplicationServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:04:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "RelativeToolTip": "Friend.Application\\Contracts\\Persistence\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:06:23.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:28:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Security\\TokenService.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Security\\TokenService.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Security\\TokenService.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Security\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:17:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Friend.Application.csproj",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Friend.Application.csproj",
+              "RelativeDocumentMoniker": "Friend.Application\\Friend.Application.csproj",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Friend.Application.csproj",
+              "RelativeToolTip": "Friend.Application\\Friend.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T07:04:54.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:05:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetAllUsersQueryHandler.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:18:09.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AppUserConfiguration.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Configurations\\AppUserConfiguration.cs",
+              "RelativeDocumentMoniker": "Friend.Infrastructure\\Persistence\\Configurations\\AppUserConfiguration.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Infrastructure\\Persistence\\Configurations\\AppUserConfiguration.cs",
+              "RelativeToolTip": "Friend.Infrastructure\\Persistence\\Configurations\\AppUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:59:30.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetUserByIdQueryValidator.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:33:47.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Queries\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:31:50.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Contracts\\Persistence\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Contracts\\Persistence\\IUserRepository.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Contracts\\Persistence\\IUserRepository.cs",
+              "RelativeToolTip": "Friend.Application\\Contracts\\Persistence\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:48:54.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginUserCommandValidator.cs",
+              "DocumentMoniker": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "ToolTip": "E:\\Clean\\21-10-2025\\10.00 AM\\Friend-Clean\\Friend\\Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "RelativeToolTip": "Friend.Application\\Features\\Accounts\\Commands\\LoginUser\\LoginUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:48:43.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

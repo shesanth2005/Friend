@@ -1,0 +1,57 @@
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.deps.json
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.runtimeconfig.json
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Application.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Domain.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Application.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Domain.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.AssemblyInfo.cs
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.I.610CE26A.Up2Date
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\refint\Friend.Infrastructure.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.genruntimeconfig.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\ref\Friend.Infrastructure.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.deps.json
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.runtimeconfig.json
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Application.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Domain.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Application.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Domain.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.AssemblyInfo.cs
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.I.610CE26A.Up2Date
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\refint\Friend.Infrastructure.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.genruntimeconfig.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\ref\Friend.Infrastructure.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.deps.json
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.runtimeconfig.json
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Infrastructure.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Application.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Domain.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Application.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\bin\Debug\net9.0\Friend.Domain.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.csproj.AssemblyReference.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.AssemblyInfoInputs.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.AssemblyInfo.cs
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.I.610CE26A.Up2Date
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\refint\Friend.Infrastructure.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\Friend.Infrastructure.genruntimeconfig.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Infrastructure\obj\Debug\net9.0\ref\Friend.Infrastructure.dll

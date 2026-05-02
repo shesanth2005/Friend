@@ -1,0 +1,45 @@
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.deps.json
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Domain.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Domain.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.AssemblyInfoInputs.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.AssemblyInfo.cs
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.A.FC1E065A.Up2Date
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\refint\Friend.Application.dll
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.pdb
+C:\Users\TUF GAMING\Desktop\Clean\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\ref\Friend.Application.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.deps.json
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Domain.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Domain.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.csproj.AssemblyReference.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.AssemblyInfoInputs.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.AssemblyInfo.cs
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.csproj.CoreCompileInputs.cache
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.A.FC1E065A.Up2Date
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\refint\Friend.Application.dll
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.pdb
+C:\Users\UT010714\Desktop\20-10-2025\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\ref\Friend.Application.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.deps.json
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Application.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Domain.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\bin\Debug\net9.0\Friend.Domain.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.csproj.AssemblyReference.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.AssemblyInfoInputs.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.AssemblyInfo.cs
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.csproj.CoreCompileInputs.cache
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.A.FC1E065A.Up2Date
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\refint\Friend.Application.dll
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\Friend.Application.pdb
+E:\Clean\21-10-2025\10.00 AM\Friend-Clean\Friend\Friend.Application\obj\Debug\net9.0\ref\Friend.Application.dll
